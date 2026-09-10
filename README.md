@@ -1,2 +1,6 @@
 # na-ord-returns-profile-manager-svc
-orders / critical / na
+
+Team: **orders**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
